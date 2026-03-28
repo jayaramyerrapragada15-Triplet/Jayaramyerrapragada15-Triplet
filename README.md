@@ -29,8 +29,8 @@ once I feel confident enough.
 
 ## Platforms I'm on
 
-- 🔗 LinkedIn: linkedin.com/in/jayaramyerrapragada
-- 💻 Kaggle: kaggle.com/jayaramyerrapragada
+- 🔗 LinkedIn: https://linkedin.com/in/jayaramyerrapragada
+- 💻 Kaggle: https://www.kaggle.com/jayaramyerrapragada
 - 📧 College Email: yerrapragada.25bai10286@vitbhopal.ac.in
 
 ---
